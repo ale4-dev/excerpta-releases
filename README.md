@@ -1,10 +1,10 @@
 # Excerpta para instalar
 
-Aplicativo pessoal de biblioteca de citações. Use a página **Releases** para baixar os instaladores. O código-fonte fica em outro repositório.
+Aplicativo de biblioteca pessoal de citações. Este repositório contém somente a página de downloads e os instaladores. O código-fonte permanece no repositório privado separado.
 
 ## Baixar
 
-1. Abra a [lista de Releases](https://github.com/ale4-dev/excerpta-releases/releases) e escolha a versão desejada. A página do canal é privada e requer entrar na sua conta GitHub.
+1. Abra a [lista pública de Releases](https://github.com/ale4-dev/excerpta-releases/releases) e escolha a versão desejada.
 2. Na lista **Assets**, baixe o arquivo correspondente ao seu aparelho:
 
    - `Excerpta-android.apk` para celulares Android.
@@ -13,7 +13,7 @@ Aplicativo pessoal de biblioteca de citações. Use a página **Releases** para 
 
 3. Siga as instruções de instalação descritas nas notas da Release.
 
-O Excerpta não será distribuído pela Play Store. A disponibilidade de APKs para instalação direta depende das configurações de segurança e das regras Android em vigor no aparelho.
+O Excerpta não será distribuído pela Play Store. Qualquer pessoa poderá baixar os instaladores desta página. A disponibilidade de APKs para instalação direta depende das configurações de segurança e das regras Android em vigor no aparelho.
 
 ## Citações e privacidade
 
