@@ -4,7 +4,7 @@ Aplicativo pessoal de biblioteca de citações. Use a página **Releases** para 
 
 ## Baixar
 
-1. Abra [a versão mais recente em Releases](https://github.com/ale4-dev/excerpta-releases/releases/latest).
+1. Abra a [lista de Releases](https://github.com/ale4-dev/excerpta-releases/releases) e escolha a versão desejada. A página do canal é privada e requer entrar na sua conta GitHub.
 2. Na lista **Assets**, baixe o arquivo correspondente ao seu aparelho:
 
    - `Excerpta-android.apk` para celulares Android.
