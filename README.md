@@ -23,6 +23,6 @@ Quando online, a biblioteca continua sincronizada com o Firebase e usa a conta a
 
 ## Atualizações
 
-Windows e Linux verificam atualizações ao abrir e a cada 12 horas, baixam em segundo plano e oferecem reiniciar para aplicar. A partir do Android 1.0.5, o Excerpta verifica atualizações ao abrir, oferece o botão “Verificar atualizações” em Configurações e pode baixar o APK. Na transição da versão 1.0.4 para a 1.0.5, instale o APK manualmente uma vez. O instalador Android ainda pede confirmação do usuário.
+Windows e Linux verificam atualizações ao abrir e a cada 12 horas, baixam em segundo plano e oferecem reiniciar para aplicar. A partir do Android 1.0.5, o Excerpta verifica atualizações ao abrir, oferece o botão “Verificar atualizações” em Configurações e pode baixar o APK. Na transição da versão 1.0.4 para a 1.0.5, instale o APK manualmente uma vez. Na 1.0.6, o ícone renovado chega também pela atualização dentro do app. O instalador Android ainda pede confirmação do usuário.
 
 O atualizador desktop depende de uma Release publicada com todos os arquivos e manifestos indicados nas notas da versão. O fluxo Android e os requisitos de sideload podem mudar; veja as notas atuais de cada Release.
